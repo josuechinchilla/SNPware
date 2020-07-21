@@ -7,11 +7,11 @@ The methods in these scripts require a set of reference data (Illumina FinalRepo
 SNPWare includes 7 scripts:
 ```
 - SNPlibrarian.GC2AB -> creates GCTA to AB library.
-- SNPlibrarian.Top2AB -> creates GCTA to AB library.
-- SNPlibrarian.AB2GC -> creates GCTA to AB library.
-- SNPlibrarian.AB2Top -> creates GCTA to AB library.
-- SNPlibrarian.GC2Top -> creates GCTA to AB library.
-- SNPlibrarian.Top2GC -> creates GCTA to AB library.
+- SNPlibrarian.Top2AB -> creates Top strand to AB library.
+- SNPlibrarian.AB2GC -> creates AB to GCTA library.
+- SNPlibrarian.AB2Top -> creates AB to Top strand library.
+- SNPlibrarian.GC2Top -> creates GCTA to Top strand library.
+- SNPlibrarian.Top2GC -> creates Top strand to GCTA library.
 - SNPtranslator -> Uses output from the SNPlibrarians to translate genotypes to the desired coding format.
 ```
 ## SNPlibrarians
