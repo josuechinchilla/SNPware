@@ -2,7 +2,7 @@
 
 ########################################
 #Name: SNPtranslator.sh
-#Version 3.1
+#Version 3.2
 #Author: Josue Chinchilla-Vargas
 #Date: May 5, 2020
 #Iowa State University
