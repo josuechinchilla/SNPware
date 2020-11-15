@@ -1,7 +1,7 @@
 # SNPWare
-SNPware is a family of short bash scripts that allows to translate genotypes coded as GCTA or Illuimina Top Strand to AB coding. The scripts work using standard Illumina FinalReport files to create a "dictionary" of genotypes at each locus. The genotype "dictionary" is then used  to translate genotypes to the desire coding.
+SNPware is a family of short bash scripts that allows to translate genotypes coded as GCTA or Illuimina Top Strand to AB coding. The scripts work using standard Illumina FinalReport files to create a "dictionary" of genotypes at each locus. The genotype "dictionary" is then used  to translate genotypes to the desired coding format.
 
-The methods in these scripts require a set of reference data (Illumina FinalReport files) and the genotypes to be transalted in LONG format.
+The methods in these scripts require a set of reference data (Illumina FinalReport files) and the genotypes to be translated in LONG format.
 
 ## Contents
 SNPWare includes 7 scripts:
